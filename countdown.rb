@@ -6,5 +6,5 @@ def countdown(countdown_output = 12)
 end
 
 if countdown_output == 0 
-        return "HAPPY NEW YEAR"
+    return "HAPPY NEW YEAR"
 end 
