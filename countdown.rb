@@ -1,5 +1,5 @@
-def countdown(countdown_output = 12)
-  while countdown_output > 0 
+def countdown(number = 12)
+  while number > 0 
   countdown_output -= 1
     puts "#{countdown_output} SECOND(S)!"
       if countdown_output == 0 
